@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, there day long with a big cat was a time, to have a big boy was too. The little house, there day, "I. He played at Tim and the mouse was very friend, "The boy, there liked to see it. They played with the dog named The girl named a little little dog there. He asked to his toys and go.Tom was excited the big girl named She played to Tim had a little red car. Tim and be not go the door. Tim was playing, and started to see he took his hands.<|endoftext|><|endoftext|>
+
+--- Sample 2 ---
+Once upon a time, there. Tom went, the boy namedThe girl named a little, she wanted to Tom was happy, a time there day, her mom.Mom namedOnce upon day, Lily, there was so very sad with the little<|endoftextendoftext|>Tim day, she saw a cat went, there was so sad in a big girl named there was a ball, the little little boy namedOne day, there was good and said, you can cat. She put they played at the toy." Tim was a small car. He saw a little, there was a big fish
+
+--- Sample 3 ---
+Once upon a time, there and play and his ball. Tim. He loved to a time, there had a friend, "<|endoftext|> bird named Tim was a tree with a mom went to play together to the park, Sam.<|endoftext|>One day named Max was very not see a big boy, there is his mom, a time, there was very much friend, and a dog named One day, he found a time. One day, there day, there's mom, but a littleOne day there was a big tree. But, "I mom, a small man,"
+
+--- Sample 4 ---
+Once upon a time, there was sad in a kind and find a time with a little house with a friend named She loved to a time named a little little dog named play with a small, there liked to play, to go named She saw a girl named She liked to a big girl came to play with, "Lily was a little big box and Lily were very sad that day. You day, there went to play to play in a time named He smiled with her big bear, there lived to help the big red things!"I are a time, "But then, and a girl with the water.
+
+--- Sample 5 ---
+Once upon a time, there was a time, there was a time, it.Tim was very much, there found a cat, they could not friends, "Wow, the little boy named Tom looked at her love to Sue. The bird named The sun. She were much. She wanted to play together with it and played in to Tim! She played at the cat. You found a big dog namedOne day, but him. The girl came to Tim was very good little girl and a big and Lily was not want to play. It's a big and the man had a big bird said.

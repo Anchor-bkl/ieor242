@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, the cat!Once a big park in the tree, there said, a man was a bear, Tim went to but she were happy, He had a bird to upon her friends, The big time named I had a little time and a ball,, the tree. "No to said and the little little girl. The big TheThe big park, the little boy was he was the tree with the man to Sue, to She saw her could|> The big small a tree. They had the tree and and<|endoftext|> but him. play. The small ball with a
+
+--- Sample 2 ---
+Once upon a time, they decided the big dog.|>One day.<|<|endoftext|>But toOnceendoftextOnce upon a He got the big little big big big bird. She all his upon her could very friends with to She saw day, said and Tim had a little bigOne was a time, the park with a The little boy to She wanted to the big big cat, The sun the girl. play with a cat.|>One aI the girl, Lily would and They was a ball to play.Onceendoftext|> his'm be that a cat. help
+
+--- Sample 3 ---
+Once upon a time, and said to Tim went to It was a cat. He looked of day. play. but he played together!<| upon a time, the girl had a small mom found a little little cat said!One day and a girl.Lily and to Max, there was a toy in a|> Tim said, The house with day, the house for the little dog to Lily, he wanted, The big toy and but a boy, They found a time. The cat,Mom, She had the ball, the big tree was so very scared. It was not were sad
+
+--- Sample 4 ---
+Once upon a time, the toy." He was said to He had fun to The boy and her know a small he was play with it,<|endoftext|>But's so sad." He found a big boy, there the dog, said to<|endoftext|> I played.<|endoftext|> and his mom's upon day, Tim saw the bird.Onceendoftext|> Sue named She was a boy, theI it had a cat was mom wanted and played of a small can cat, there was very sad.<|endoftext|>" little time, a sun."Yes to Tom,
+
+--- Sample 5 ---
+Once upon a time, there to The tree. I liked.|> "Yes. make a toy.Onceendoftext|><| upon a ball,"Hello named Tim, Sue, The little big big tree, "<| upon him to<|endoftext|> Ben's loved to She felt a girl. "One was not sad and "Onceendoftext|> but theI a new friends with a big girl and said and the little little box and he all to Tim, They loved. help were so happy and his am fun in he put his so mom to|> play and said and Lily was sad together

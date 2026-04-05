@@ -1,0 +1,404 @@
+{
+  "resolved_tokens": {
+    "boy": "\u0120boy",
+    "girl": "\u0120girl",
+    "dog": "\u0120dog",
+    "cat": "\u0120cat",
+    "bird": "\u0120bird",
+    "dad": "\u0120dad",
+    "mom": "\u0120mom"
+  },
+  "neighbors": {
+    "boy": {
+      "token_id": 407,
+      "neighbors": [
+        {
+          "token": "\u0120girl",
+          "cosine": 0.6964554786682129
+        },
+        {
+          "token": "\u0120kid",
+          "cosine": 0.5982728004455566
+        },
+        {
+          "token": "\u0120child",
+          "cosine": 0.5500878095626831
+        },
+        {
+          "token": "\u0120man",
+          "cosine": 0.5005446672439575
+        },
+        {
+          "token": "\u0120person",
+          "cosine": 0.4549019932746887
+        },
+        {
+          "token": "\u0120dog",
+          "cosine": 0.43058133125305176
+        },
+        {
+          "token": "\u0120fireman",
+          "cosine": 0.4106794595718384
+        },
+        {
+          "token": "\u0120bald",
+          "cosine": 0.3895503878593445
+        }
+      ],
+      "matched_token": "\u0120boy"
+    },
+    "girl": {
+      "token_id": 385,
+      "neighbors": [
+        {
+          "token": "\u0120boy",
+          "cosine": 0.6964554786682129
+        },
+        {
+          "token": "\u0120child",
+          "cosine": 0.5305609107017517
+        },
+        {
+          "token": "\u0120lady",
+          "cosine": 0.5068145990371704
+        },
+        {
+          "token": "\u0120woman",
+          "cosine": 0.4894699454307556
+        },
+        {
+          "token": "\u0120daughter",
+          "cosine": 0.45353662967681885
+        },
+        {
+          "token": "\u0120person",
+          "cosine": 0.4492427706718445
+        },
+        {
+          "token": "\u0120cat",
+          "cosine": 0.43051087856292725
+        },
+        {
+          "token": "\u0120nurse",
+          "cosine": 0.41053932905197144
+        }
+      ],
+      "matched_token": "\u0120girl"
+    },
+    "dog": {
+      "token_id": 375,
+      "neighbors": [
+        {
+          "token": "\u0120cat",
+          "cosine": 0.6564260721206665
+        },
+        {
+          "token": "\u0120bird",
+          "cosine": 0.4551158547401428
+        },
+        {
+          "token": "\u0120boy",
+          "cosine": 0.43058133125305176
+        },
+        {
+          "token": "\u0120mouse",
+          "cosine": 0.41875484585762024
+        },
+        {
+          "token": "\u0120squirrel",
+          "cosine": 0.4175202548503876
+        },
+        {
+          "token": "\u0120frog",
+          "cosine": 0.4054645001888275
+        },
+        {
+          "token": "\u0120duck",
+          "cosine": 0.4015069603919983
+        },
+        {
+          "token": "\u0120bear",
+          "cosine": 0.39957350492477417
+        }
+      ],
+      "matched_token": "\u0120dog"
+    },
+    "cat": {
+      "token_id": 369,
+      "neighbors": [
+        {
+          "token": "\u0120dog",
+          "cosine": 0.6564260721206665
+        },
+        {
+          "token": "\u0120bird",
+          "cosine": 0.5861216187477112
+        },
+        {
+          "token": "\u0120mouse",
+          "cosine": 0.5258619785308838
+        },
+        {
+          "token": "\u0120girl",
+          "cosine": 0.43051087856292725
+        },
+        {
+          "token": "\u0120little",
+          "cosine": 0.393088161945343
+        },
+        {
+          "token": "\u0120bug",
+          "cosine": 0.387650728225708
+        },
+        {
+          "token": "\u0120witch",
+          "cosine": 0.3776443600654602
+        },
+        {
+          "token": "\u0120boy",
+          "cosine": 0.3741820156574249
+        }
+      ],
+      "matched_token": "\u0120cat"
+    },
+    "bird": {
+      "token_id": 330,
+      "neighbors": [
+        {
+          "token": "\u0120cat",
+          "cosine": 0.5861216187477112
+        },
+        {
+          "token": "\u0120frog",
+          "cosine": 0.48160383105278015
+        },
+        {
+          "token": "\u0120bug",
+          "cosine": 0.47257018089294434
+        },
+        {
+          "token": "\u0120dog",
+          "cosine": 0.4551158547401428
+        },
+        {
+          "token": "\u0120mouse",
+          "cosine": 0.42358946800231934
+        },
+        {
+          "token": "\u0120squirrel",
+          "cosine": 0.4213198721408844
+        },
+        {
+          "token": "\u0120duck",
+          "cosine": 0.4191665053367615
+        },
+        {
+          "token": "\u0120rabbit",
+          "cosine": 0.4089319705963135
+        }
+      ],
+      "matched_token": "\u0120bird"
+    },
+    "dad": {
+      "token_id": 632,
+      "neighbors": [
+        {
+          "token": "\u0120grandpa",
+          "cosine": 0.6317024827003479
+        },
+        {
+          "token": "\u0120Dad",
+          "cosine": 0.6279950141906738
+        },
+        {
+          "token": "\u0120daddy",
+          "cosine": 0.6146214008331299
+        },
+        {
+          "token": "\u0120mom",
+          "cosine": 0.5648312568664551
+        },
+        {
+          "token": "\u0120father",
+          "cosine": 0.5423142313957214
+        },
+        {
+          "token": "\u0120uncle",
+          "cosine": 0.5344456434249878
+        },
+        {
+          "token": "\u0120Daddy",
+          "cosine": 0.4921405613422394
+        },
+        {
+          "token": "\u0120parent",
+          "cosine": 0.48584651947021484
+        }
+      ],
+      "matched_token": "\u0120dad"
+    },
+    "mom": {
+      "token_id": 296,
+      "neighbors": [
+        {
+          "token": "\u0120mommy",
+          "cosine": 0.6546986103057861
+        },
+        {
+          "token": "\u0120Mom",
+          "cosine": 0.6523429155349731
+        },
+        {
+          "token": "\u0120dad",
+          "cosine": 0.5648312568664551
+        },
+        {
+          "token": "\u0120Mommy",
+          "cosine": 0.5630639791488647
+        },
+        {
+          "token": "\u0120grandma",
+          "cosine": 0.5590119361877441
+        },
+        {
+          "token": "\u0120mother",
+          "cosine": 0.5318621397018433
+        },
+        {
+          "token": "\u0120moms",
+          "cosine": 0.49911171197891235
+        },
+        {
+          "token": "\u0120mum",
+          "cosine": 0.4947257339954376
+        }
+      ],
+      "matched_token": "\u0120mom"
+    }
+  },
+  "arithmetic": {
+    "girl-boy+dog": {
+      "tokens": [
+        "\u0120girl",
+        "\u0120boy",
+        "\u0120dog"
+      ],
+      "top": [
+        {
+          "token": "\u0120cat",
+          "cosine": 0.5993754863739014
+        },
+        {
+          "token": "\u0120bird",
+          "cosine": 0.4723530411720276
+        },
+        {
+          "token": "\u0120mouse",
+          "cosine": 0.4160061776638031
+        },
+        {
+          "token": "\u0120puppy",
+          "cosine": 0.3601610064506531
+        },
+        {
+          "token": "\u0120lady",
+          "cosine": 0.3525844216346741
+        },
+        {
+          "token": "\u0120squirrel",
+          "cosine": 0.34763485193252563
+        },
+        {
+          "token": "\u0120queen",
+          "cosine": 0.33470553159713745
+        },
+        {
+          "token": "\u0120bear",
+          "cosine": 0.32567358016967773
+        }
+      ]
+    },
+    "mom-dad+boy": {
+      "tokens": [
+        "\u0120mom",
+        "\u0120dad",
+        "\u0120boy"
+      ],
+      "top": [
+        {
+          "token": "\u0120girl",
+          "cosine": 0.5448573231697083
+        },
+        {
+          "token": "\u0120kid",
+          "cosine": 0.43377166986465454
+        },
+        {
+          "token": "\u0120cat",
+          "cosine": 0.4005900025367737
+        },
+        {
+          "token": "\u0120man",
+          "cosine": 0.3718387186527252
+        },
+        {
+          "token": "\u0120person",
+          "cosine": 0.36905038356781006
+        },
+        {
+          "token": "\u0120lady",
+          "cosine": 0.36194467544555664
+        },
+        {
+          "token": "\u0120child",
+          "cosine": 0.3462720215320587
+        },
+        {
+          "token": "\u0120dog",
+          "cosine": 0.3433151841163635
+        }
+      ]
+    },
+    "cat-dog+bird": {
+      "tokens": [
+        "\u0120cat",
+        "\u0120dog",
+        "\u0120bird"
+      ],
+      "top": [
+        {
+          "token": "\u0120mouse",
+          "cosine": 0.380121648311615
+        },
+        {
+          "token": "\u0120dove",
+          "cosine": 0.3758710026741028
+        },
+        {
+          "token": "\u0120bunny",
+          "cosine": 0.3667885661125183
+        },
+        {
+          "token": "\u0120bug",
+          "cosine": 0.36254751682281494
+        },
+        {
+          "token": "\u0120nest",
+          "cosine": 0.35803860425949097
+        },
+        {
+          "token": "\u0120girl",
+          "cosine": 0.34985512495040894
+        },
+        {
+          "token": "\u0120fairy",
+          "cosine": 0.3484210669994354
+        },
+        {
+          "token": "\u0120fox",
+          "cosine": 0.34568801522254944
+        }
+      ]
+    }
+  }
+}

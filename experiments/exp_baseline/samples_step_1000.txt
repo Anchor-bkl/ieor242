@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, Tom was so "You day, but a time that the little cat." The boy. They had a girl in, you it was her friends, "The little boy and a cat is have a time to a tree, "Once his cat's big tree to happy." She had his good.One looked, Tim named It was play, a ball, it and Tim saw they's big toy. He had Tom would so a friend, a mom's friends with the cat named But Tim, but the little new small room.<|endoftext the cat and said you they to very
+
+--- Sample 2 ---
+Once upon a time, the kitchen, he were play. The big cat was a mom, a friends.<|endoftext little dog went to a big tree. The new mom saw. The friend, but the time.She. Tim to help a new mom named<|endoftext "Yes, "You day the friends with it to want with a room the man liked, the time the little door. You wanted to go to a big ball! She had his bird saw the cat is to very a mom to not sad and the big time, Tim." The time, there to a and a friends. Tim
+
+--- Sample 3 ---
+Once upon a time, little park. The dog went and it and the time, "I the friend.Ben.Once wanted, they had his time. Tom. I it it was a cat, they saw a time a big little little girl was play and them. The big time, the dog, his friend and it were fun. It could a big bird to happy. He named They said, a friends.<| put a the big park.One. Tim. She were not play, Lily. The cat. The little boy is the bird's he and the time, a girl was
+
+--- Sample 4 ---
+Once upon a time, you a big man.I the friend. Sue wanted for the man. He was he was a little friends and the car.<| upon a boy. They and they said in said, Lily did not very play." She felt so her|> "Can, she's friends.Ben. They and the boy!"The little big big friends. Tim and the big small time you it to a little mom said, said, Tim. She was a mom named Tim. I a fun.One are a best. They saw him to help, "Tim, they day,
+
+--- Sample 5 ---
+Once upon a time, " Max saw the time.<| upon a, it.The small mom to a time, "It."Thank a big dog." He was a time. He.I a friend. It to a mom and saw, "That and. You were very help. He was a dog said, the park. They was not know.One to sad and a tree.One's "Hi, but his friends together. Lily had his|>Once upon a friends to go namedOne was a mom! They was said." It, they and the house

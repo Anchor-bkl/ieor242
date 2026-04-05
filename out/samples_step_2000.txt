@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, " park. Max was not know. Tim's happy and had a little, the toy friends, Tim named Ben was mom.As, he were mom for a big boy named<|endoftext|>Once upon a boy was the sun, ""Mty. And.<|endoftext|> He found a time, "One and play, and Ben was the tree with the ball. The bird was so play, you to the car and put you with the best. It loved in the little little|>"I!" He knew to not very upon the cat did not happy
+
+--- Sample 2 ---
+Once upon a time, Tom. He was mom and he found so sad and Lily saw a little, "Why, a big boy named Tim was a time. He were a time, they started. They put theI on it to the ball. She was a girl's happy, I have the bests to very a big<|endoftext|>But in a new mom were a big big bird was happy in a big big park. The bird named Lily liked to the ball, and not not be upon a big time.<|endoftext|>Lily. It liked to make a ball and they play,
+
+--- Sample 3 ---
+Once upon a time, the She had the box, "I. They would make the park. She found a, "That and started the sky for a big, Tim. Tim named He was the rock and Ben were mom.The friends's a little|>Once upon the ball. His boy. She named He asked the park and see the cat saw the ground, Tim was friend. Tom. The car to a ball to find he played.One day. He saw a bird. It's friends. They had a lot, the tree and Lily. It was happy, she was a time,
+
+--- Sample 4 ---
+Once upon a time, it. The boy was a big and a big girl looked for the big girl did so surprised. But. She was help his house. You. Lily."ow! He would know, but their bird named They went to not go to happy. It. It named "Lily. You. They was a time. They said to so go to a red friend. He asked her little boy named Tom's very mom.<|endoftext|><|endoftext|>Lily and make a big cat saw his and have the sun wanted to a big boy was playing, "I, the
+
+--- Sample 5 ---
+Once upon a time, "I, Max named She knew his upon a little dog loved to play.One day and wanted to the dog was to a girl was so not a big boy was very very upon a red, so mom was sad, they went and the pced, they saw a bird was very not happy. They liked to the park.<|endoftext|>"ine and Lily was happy. Sue and go to sad, a time, there day. The new friend, there. She thought to a small little toy other mom was be very very sad and said. They put a

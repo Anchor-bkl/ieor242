@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, Tom in his new park. The bird was it to sad was play." The boy. They had a girl liked, you it was her friends, "The little boy loved!" Tim is have to you to a tree, "Once upon a tree, a bird. The girl had his good, the big cat, he can play.<|endoftext|> He, a cat was so very a big a car.Anna, so a time, a time, there with the mom a bird was the little car. They day. I they, she the cat and said. I the boy
+
+--- Sample 2 ---
+Once upon a time, the ball,, Lily.<|endoftext|><|endoftext|>Tom and a friends, a time, a big tree, "Tom, but. The friend, but the time. Tim was a time to help." girl was her little little time, a big dog. They wanted it?" Max with a time the man to very go in the mom, "I the time, there. The dog's he had you! Mia was very scared to theI. They saw a mom!"One upon a time and and his small to it and a time. Tim
+
+--- Sample 3 ---
+Once upon a time, Tim saw a tree.Tim smiled and the time, "I you you.Anna.Once upon a big dog was a cat was a box it it. Tim was a boy. "Tom a big little little girl was play and a big bird was find were the dog a bird. They went to fun. It was a big bird that were a little girl was said. He looked named<|endoftext|>Once upon a there had. Tim. She were a girl a small. The cat. She was a bird named " girl saw a time. The man was a
+
+--- Sample 4 ---
+Once upon a time, you a big toy.I she was a big new there. Tim was a friends, the girl a friends and the park.<|endoftext|><||> He upon a small said, a time.Once upon a time, her the ball, there to a little friends. Tim. They day, not a little time. Tim. TheOnce loved and the big small had a big ball, sad.Lily said, play. She was a mom. Tim day the big mom, he that her and a mom, the little box and day named The, they, play
+
+--- Sample 5 ---
+Once upon a time, " bird was there was but her other. They they it and it to very be it to happy. "<|endoftext|><|endoftext|> He upon a friend. It to a friend was a big friend. It was a little boy saw, big friend and day it.Once. He was a dog said, there named The tree and a little mom with the cat to fun. It.One's "<|endoftext|>One upon was day! One was a dog. It was his time namedOnce could his there to so a girl with were see could they that a house

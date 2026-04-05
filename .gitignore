@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large raw datasets
+data/TinyStoriesV2-GPT4-train.txt
+data/TinyStoriesV2-GPT4-valid.txt
+
+# Model checkpoints (very large)
+**/*.pt
+
+# Slurm and experiment logs
+slurm-*.out
+slurm-main-gpu-*.out
+slurm-smoke-*.out
+experiments_logs/*.out
+
+# Optional local env
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store

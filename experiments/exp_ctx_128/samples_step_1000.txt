@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, Tom in his new park, but Lily in it to sad was play." The boy. They had a girl in played. But had her friends, "The little boy and very Tim is have a time.Once had his red and a tree,|> One. The girl had his good, but play with can not Tim to they a bird went were the girl, andendoftext so very happy.Tom was had that the new bird was the mom, "It with the mom a bird was the little car. They day. I they a good the cat,<| a girl,
+
+--- Sample 2 ---
+Once upon a time, the ball, he loved said. The small cat was a dog upon a boy.Once to make a little ball to they.Lily." big man upon the bird with a new mom.The sun and aI played.<| very "<| a friend, he the friends with wanted to he upon a time the man to very go in the mom, Sue named They the car with said.As he to youendoftext|>Once is to the tree. They saw a mom!"One upon had that a and his small tree it upon a big cat was
+
+--- Sample 3 ---
+Once upon a time, Tim saw a tree. Sue wanted was the little time, "I you her big toy, he said, "Lily saw a bird day. Tom. I it it was Tim day, they saw a big dog a little little girl was play and happy. The big time, mom upon a bird wanted to very a girl you you said. She the ball." He, they that said, a small big tree.<| the big park.One. Tim. She to not play, Lily. The cat. The little boy, he saw a big and can the little man was not
+
+--- Sample 4 ---
+Once upon a time, you a big man day on she could the toy, "They a man was see can he to the little friends, the park you a big man said. The mom and they the small big big big mom.The big friends you a other the ball, "Thank's little friends. It. They and the boy was very a little big big friends. Tim and the big small time you it day, "Mom said, said, Tim. She to he day. Tim. I a mom, he that her and a mom, Sam day, but she was happy, they, she
+
+--- Sample 5 ---
+Once upon a time, "One saw the friend.<| very a big small new little big small small big toys.Once loved you a big toy a|> He to a friend.When "The mom and sad.You a new mom, Tim, "Once and played it were said!" Tim went was happy that said, there to he to his new little mom with the cat had can a tree.As "Thank it with saw his friends!" They day her new bird. But a there in his time namedOne his there to so a big cat were see could they that a house

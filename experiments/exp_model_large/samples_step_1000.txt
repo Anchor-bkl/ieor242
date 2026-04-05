@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time, it in his it's toyed to mom it that the little cat." The boy. They had a girl in, you so find her friends, big big little boy and a cat is have a time to a tree to "Once theI so happy for aI aLet aI his tree! Tim to friends a bird went were the girl, and Tim saw very happy.One knew so be the tree, Tom's cat said to happy aYes, the little cat to sad. The big little time, the cat would said you a girl,
+
+--- Sample 2 ---
+Once upon a time, the ball! They, play. The small cat was a dog, play. He the bird to but a water. He to they it was she day in. The friend named They the time the little park. Tim to friends aI a ground. He his best. It did he the big littleThank "<| little time it to friend,, friends in the littleNo you very the time, there said.As he the boy, friends. She aI but a tree to friend, mom did the time, friend." The time,, and it's toy in theI
+
+--- Sample 3 ---
+Once upon a time, a park. The little tree and very the little time, "I you you.Ben.Once and a big red.<||> The box it it was Tim day, they saw a big dog that upon the girl, play and happy. TheOnce it were the dog a bird could|> You their girl toendoftext friend. She the ball." He, they upon said, aNo named They his water the big park.One. Tim. She were there are a small time, a big girl, happy, the bird's bird and very theI a girl was
+
+--- Sample 4 ---
+Once upon a time, you a big toy.I the friend a big new small girl in a sun. The dog was a friends and the car.<||> The boy. They a time the small big big big water.Ben." She felt "Once the ball, play to|>"Once.Tom and theI but very a little big big friends. Tim would be play. They you it day, "One said, said, play. She was he day it to Tom the big fun.One are and so Tom to the little box and she was happy, they, play
+
+--- Sample 5 ---
+Once upon a time, " bird, not the cat her other with a pretty together.The small other to "<||> "It."Tom a big dog." He was a time. And a littleI sad.<|endoftext|> He saw the time to go and happy it were "I. He played! They said, friends and he to|><| mom said, play, be a tree.Lily the sky with a big sky!" They day her new bird said in a ball in his time named He could his big bird had a big cat were not Tom felt they a house

@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time,, with was it he<|,, and.. They to, They to to her bigs said and the with was|>,. you a and to,s was a the and. They, " her the a the and with the She the He|> a.., with. in... was they She day " a the. in,, said., to They and. was was the his was to he. a had to a, in and. in her.,, with, her The.,,. and the the to
+
+--- Sample 2 ---
+Once upon a time, The the. in the,. The, on Tim, it..endoftext.. to the He. and her they was. her,, it a The., it The with he her., on the was " "s it, was he with|> her in big and the and a, to the. was and,, the and the they he.,. was They, They was big.. a The her big the to the her Tim and, Tim the a, He and The and the. said they the the He, and was and
+
+--- Sample 3 ---
+Once upon a time,, on his a. the with said They her a He the with and to to a the said it a, had the he to he a the Tims to They the the They Tim and. on. She to.,,.,, the was They to The and a wass her The.endoftext, his to day She aendoftext to, She. ". and<| to. They with. the.endoftext., was He Tim was,. a in He He They they in. and the to The They a.. " in his
+
+--- Sample 4 ---
+Once upon a time,endoftext to. with was She, to<| was,,. in,,,,. " a to was. with to,|> was to and a, The. The and a They. to day..,, a and a|> the it. and, The was " said said. was. a to and, and her. the it thes They.., was. they " the and a was They. was. he Tim " they a The and the said. to was|> the a.. on the. big, a
+
+--- Sample 5 ---
+Once upon a time,, They. it day the to a the.. to They with it a, to the a. to She the, the you Tim a it in he day the was The, it a, it a " he the, and. her to He, her to was, you She Hes,. the a, the said said in a was he, was to to to in her and had the|>,,. The. they. the a her it. the, in and The the they.endoftext it her the the the,.|>, it the,

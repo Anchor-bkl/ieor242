@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time,|> tree was it's wanted, time and her find and to the They a|> boy!"But and the One was was the The there and was very mom was a she and the They the " They the He a little the She the He said to the One, they hisendoftext He. She had a time to very the I the They her said. It to go, happy and played was was the She was the The " They aendoftext They was saw and very they wanted,endoftext but, the The|> The "Once sad and very upon the She found
+
+--- Sample 2 ---
+Once upon a time, friends the She to theWhen, there wanted, see named boy. boy. The little " He the She they her was her the<| there was very went. Theendoftext he a|>Once happy was happy's be it, she aendoftext|> " It and the<| a dog to see saw the She the They was not see the She was he a there day was saw, mom was upon theOne, her big bird to the But the", Tim was a small and put were play the The Lily, the He, and was very not
+
+--- Sample 3 ---
+Once upon a time, be was sad day to he the The a and her happy.One saw and found to very said, said it, go.|>|> girl, friend, Tim to the They the Tom, Tim and aendoftext boy." She to a but to a|> He went." They to so and a upon it. The|>endoftextendoftext big Tom day, aendoftext Tom, a little girl. little Tim to so " They was saw it. The "The was were the The "<| mom, " He a they it.One to very a "The and a|>
+
+--- Sample 4 ---
+Once upon a time,endoftext " It to said was have,endoftext "The.|> I you in, have, happy. "Thank and so wanted with to were said was went and a I to the The there, happy.<|endoftextendoftext but, a and a|> It. time and have was was could said said. She wanted. "One and her play the They the She theOne's was a they a the He a I looked. It saw a he was not a they a Theendoftext and be said. Lily was went the<| he all it, big Max day
+
+--- Sample 5 ---
+Once upon a time, but her mom it day. But a littleendoftextendoftextendoftext time!" big a but, mom the He said. Tim, happy you named small it in he day, mom named but it that, upon it a "Tom the Theendoftext and her " He the bird to was have the She the|> The but were a but the He said in a " Yous, he to " She it her a|> The boy. The but they did a boy her happy. The "<| and a " It, so it, " They the They could have a Tom it went,

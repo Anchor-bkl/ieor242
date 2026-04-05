@@ -1,0 +1,17 @@
+Prompt: Once upon a time,
+============================================================
+
+--- Sample 1 ---
+Once upon a time,|>endoftext The " a " The Lily in it that was It. play to Theendoftext a a play in, so wasOne to he was The little play and big Tim her wanted. The not a Tim hadOnce|> Sheendoftext happy it to They a happy a She day was happy, said. I to<| happy, bird was<|, Theyendoftext so very big had. He was Tim was They not Tom's Tim with was happy a play of the She and They|> big Lily. " The time and I to very
+
+--- Sample 2 ---
+Once upon a time, the<| the<|endoftext big the The He to Tom's She the play, a the The a little " a I to They. The so They. TheOne saw the time. happy. Tim to Tim a a upon the but was " happy. It, he the They wanted it to<| a a they the The They the time the but the " I They theendoftext said. very They the Lily and Theendoftext She a Tom.|> He the the It to They a He,The and a Tim
+
+--- Sample 3 ---
+Once upon a time, little<|. " there a It the a bigOnce They. very so and She and a It, " a They and She the Lily it a Tim day, He. " They a very upon. They was<| The but hisOne, He day a They wanted and very a play. said. She the there."endoftext not they was said day. a The They his a the " big play. mom. She. The big a Lily. The aOne wanted to Tim, " " big play to time saw a Tom
+
+--- Sample 4 ---
+Once upon a time, He a Tim. a very They the They he the He. Tim. He. The the a a Tim and the She you. theOnce TheOnce saw mom he,The in said. big a They|> She upon a They the " They to The bird he. a They and the The very a<| big TheOnce Tim and He the Tim had I a She a a said, play. they to Lily it." Tom the He said. Theendoftext and Tom, little They, The the they, He
+
+--- Sample 5 ---
+Once upon a time, They the The little the but her a very a play.|> not very They a big a " The " Tim with a|> He|> big Tim. time. " big very<| the a He wanted andendoftext, a the " a said. play,endoftext said, The but toOne andOnce said, She had the big a<| little " He. It was Lily her upon it. but they a happy to said aOnce a He was so a The They were The there and He a
