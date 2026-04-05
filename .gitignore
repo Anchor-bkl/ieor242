@@ -8,6 +8,7 @@ data/TinyStoriesV2-GPT4-valid.txt
 
 # Model checkpoints (very large)
 **/*.pt
+!out_main_gpu_baseline/checkpoint_final.pt
 
 # Slurm and experiment logs
 slurm-*.out

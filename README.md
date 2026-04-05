@@ -1,73 +1,73 @@
-# TinyStories GPT Homework Minimal Skeleton
+# TinyStories Decoder-Only Transformer (HW3)
 
-This project is a minimal, compute-node-safe skeleton for your homework.
+This repository contains a complete TinyStories homework project:
+- training pipeline (`train.py`)
+- generation script (`generate.py`)
+- embedding analysis (`analyze_embeddings.py`)
+- ablation/experiment summaries (`experiments/`)
+- final report notebook (`HOMEWORK_REPORT.ipynb`)
 
-## 1) Strict remote resource workflow
+## Quick Start: Inference From Uploaded Final Checkpoint
 
-Do lightweight work on login node only:
-- edit code
-- prepare environment
-- submit jobs
+The repository includes a ready-to-use final checkpoint for the main model:
+- `out_main_gpu_baseline/checkpoint_final.pt`
+- `out_main_gpu_baseline/tokenizer.json`
 
-Do training/evaluation on compute node only:
-- via interactive allocation (`salloc`)
-- or batch job (`sbatch`)
-
-This repo enforces that rule in `run.sh`:
-- exits if no `SLURM_JOB_ID`
-- exits if hostname looks like login node (starts with `br`)
-
-## 2) Setup (login node)
+Install dependencies:
 
 ```bash
-cd ~/hw3_tinystories_minimal
-python3 -m venv ~/venvs/hw3
-source ~/venvs/hw3/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Download data to `data/`:
+Run generation directly (no retraining required):
 
 ```bash
-mkdir -p data
-cd data
-wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-train.txt
-wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-valid.txt
+python generate.py \
+	--checkpoint out_main_gpu_baseline/checkpoint_final.pt \
+	--tokenizer out_main_gpu_baseline/tokenizer.json \
+	--prompt "Once upon a time," \
+	--num_samples 5 \
+	--max_new_tokens 120 \
+	--temperature 0.9 \
+	--top_k 40 \
+	--top_p 0.9
 ```
 
-## 3) Run on compute resources
+## Main Training Setup (Used For Final Results)
 
-Option A: batch (recommended)
+- Model: decoder-only transformer
+- Config: `vocab_size=4000`, `d_model=256`, `n_heads=8`, `n_layers=5`, `d_ff=768`, `context_length=256`
+- Data subset: first `1,000,000` train stories and first `10,000` valid stories
+- Main output directory: `out_main_gpu_baseline/`
+
+## Reproduce Training (HPC)
+
+This project is designed for SLURM compute nodes. `run.sh` blocks accidental login-node training.
+
+Batch:
 
 ```bash
-cd ~/hw3_tinystories_minimal
-sbatch submit.slurm
-squeue -u "$USER"
+sbatch submit_main_gpu_baseline.slurm
 ```
 
-Option B: interactive
+Interactive:
 
 ```bash
 salloc -A mth250011p -p GPU-shared --gpus=1 -N 1 -t 04:00
-cd ~/hw3_tinystories_minimal
-bash run.sh
+bash run.sh --out_dir out_main_gpu_baseline
 ```
 
-## 4) Outputs
+## Important Files
 
-All outputs go to `out/`:
-- `train_metrics.csv`: step, split, loss, ppl, lr, tokens_per_sec, elapsed_sec
-- `samples_step_*.txt`: generated samples
-- `checkpoint_step_*.pt`, `checkpoint_final.pt`
-- `tokenizer.json`
+- `HOMEWORK_REPORT.ipynb`: final report with plots/tables and appendix code
+- `ASSIGNMENT_SUMMARY.md`: concise project summary
+- `experiments/summary.csv`: quantitative comparison across ablations
+- `out_main_gpu_baseline/train_metrics.csv`: main run training/validation curves data
 
-Use `report_template.ipynb` to generate plots/tables for your writeup.
+## Notes
 
-## 5) Useful overrides
-
-You can override defaults in `run.sh` by passing args:
-
-```bash
-bash run.sh --max_steps 2000 --vocab_size 2000 --context_length 128 --batch_size 32
-```
+- Raw dataset files and intermediate checkpoints are excluded from GitHub to keep the repository lightweight.
+- The final inference checkpoint is included for direct reproducibility.
